@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered against laying a farther imposition upon sugar.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28724</idno><idno type="EEBO-CITATION">99885994</idno>
+  <idno type="VID">186359</idno>
+  <idno type="EEBO-PROQUEST">2240900024</idno>
+  
+            <idno type="STC">Wing R523A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[163]</idno>
+            <idno type="STC">ESTC R225268</idno>
+            <idno type="PROQUEST">ocm99885994</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885994e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186359)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[156])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered against laying a farther imposition upon sugar.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sugar --  Taxation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Tariff on sugar --  England --  Early works to 1800.</term>
+               <term type="topical_term">Sugar trade --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Colonies --  Economic conditions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186359:1"/>
+            <pb facs="tcp:186359:1"/>
+            <head>REASONS Humbly Offered against laying a farther <hi>Imposition</hi> upon <hi>SUGAR.</hi>
+            </head>
+            <p n="1">I. THE Burthen of this Imposition will lie wholly upon the People of the <hi>Plan<g ref="char:EOLhyphen"/>tations.</hi> For when the Importer hath paid the Duty, he will not be able, on that account, to advance his Price in the least. Thus it was found, that when the first Duty upon <hi>Sugar</hi> was granted to King <hi>Charles,</hi> which still continues, it made no alteration in the Price. And when the Additional Duty was grant<g ref="char:EOLhyphen"/>ed to King <hi>James,</hi> it still continued the same. In King <hi>James</hi>'s Act it was provided, <hi>that the Buyer should pay that Duty:</hi> But the Seller was forc'd to pay it, or he must keep his Sugar; for no Man would buy, unless the Duty were first clear'd. It appears therefore plainly, that the People of the <hi>Plantations,</hi> who are the Importers and Makers of the <hi>Sugar,</hi> must bear the whole burthen that is laid upon it,</p>
+            <p n="2">II. The Duty that hath been propos'd, will be a very heavy burthen. For a Farthing <hi>per</hi> Pound upon <hi>Muscovado Sugar,</hi> is two Shillings four Pence the Hundred: and the ordinary clear Profit of this Hundred being about six Shillings, the Two and Four-pence is about a third part of the clear Profit. which clear Profit is the <hi>Planters</hi> Livelyhood.</p>
+            <p n="3">III. The People of the <hi>Plantations</hi> are not able to bear this Burthen: they paying already Eighteen-pence a Hundred here in <hi>England,</hi> and the full value of Sixpence upon the place. The like Imposition being laid upon them by King <hi>James</hi> for eight Years, hath brought them (who before were in a flourishing Condition) to the very brink of Ruin. And if it should now be renewed, it would utterly destroy them. In the Island of <hi>Barbadoes</hi> above forty Sugar-works are deserted: thousands of Acres lie waste: Not one Man in twenty can keep his Buildings in repair: and the whole Island is a spectacle of Poverty and Misery.</p>
+            <p n="4">IV. Whereas it hath been said, that since the Kingdom is engaged in a War, the <hi>Plan<g ref="char:EOLhyphen"/>tations</hi> should bear a share in the Charge of it; It is humbly answer'd, that they do bear their full Share. In <hi>Barbadoes</hi> every twenty Acres finds a Footman to the <hi>Militia,</hi> and every fourscore a Horseman: the making and repairing of their Forts and Breast-works is very charge<g ref="char:EOLhyphen"/>able, and they are upon perpetual Duty in Guarding them: Every Alarm causes a great Ex<g ref="char:EOLhyphen"/>pence: and they have at their own Costs set out several Ships of war. In short, they upon all occasions have strain'd themselves to the utmost, for Their Majesties Service, and for the English Interest: particularly in the Expeditions of S. <hi>Christophers, Guadalupe,</hi> and <hi>Martinico:</hi> That of <hi>Martinico</hi> alone cost the Island of <hi>Barbadoes</hi> above thirty thousand pound: and they have not ninety thousand Acres that can pay Taxes. So that this one thing comes to about seven shillings in the pound, reckoning their Land at twenty shillings an Acre. Also they have sustained grievous Losses at Sea: and by reason of the fewness of Ships that are permitted to go to them, they want many Necessaries, and their Sugars lie wasting and perishing upon their hands. Or at best they pay excessive prices for what they buy; and must give treble the usual Fraight, perhaps four or five fold, for what they send off. So that they are in no condition to receive more burdens.</p>
+            <p n="5">V. The Additional Duties were laid upon <hi>Sugars</hi> by the late King, at the Instigation of the <hi>Sugar-Bakers:</hi> who had gain'd some Persons of great Credit with him. And nothing would content him but that Tax. But the Commons were not willing to pass the Bill, till he had promised them by the Chancellor of his Exchequer; that if the Duties were found grie<g ref="char:EOLhyphen"/>vous to the <hi>Plantations,</hi> they should not be collected. They were soon found very grievous, and he was well inform'd of it, but it was Collected notwithstanding.</p>
+            <p n="6">VI. The <hi>Sugar-Bakers</hi> were desirous to get a Monopoly of improved <hi>Sugars:</hi> and to shut out others, not by downright Prohibitions, but by High Duties, which are the same thing in Effect. And therefore they contrived, that all <hi>Sugars</hi> fit for Use (for that was their word) that came from the Plantations, should pay a treble Duty, tho they seldom reach double the price. By which means they might reasonably expect, that no such <hi>Sugars</hi> would come from the Plantations. And then they might sell at what rates they pleased</p>
+            <p>
+               <hi>It is humbly hoped that the Honorable</hi> House of Commons, <hi>will never prefer the Interest of a few</hi> Sugar-Bakers <hi>before that of the</hi> Plantations. <hi>which Employ so many hundred Ships, and so many thousand Families here in</hi> England: <hi>and which, by the most moderate Computation, are worth to this Kingdom (by getting and saving) above a Million yearly. They are as good as Mines of Silver, yearly yielding a Million.</hi>
+            </p>
+            <pb facs="tcp:186359:2"/>
+            <pb facs="tcp:186359:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
